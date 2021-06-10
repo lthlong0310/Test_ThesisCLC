@@ -87,7 +87,13 @@ class Tester(object):
         hit10 = self.lib.getTestLinkHit10(type_constrain)
         hit3 = self.lib.getTestLinkHit3(type_constrain)
         hit1 = self.lib.getTestLinkHit1(type_constrain)
-        print (hit10)
+
+        print ("MR = " + mr + "\n")
+        print ("MRR = " + mrr + "\n")
+        print ("Hit@1 = " + hit1 + "\n")
+        print ("Hit@3 = " + hit3 + "\n")
+        print ("Hit@10 = " + hit10 + "\n")
+        #print (hit10)
         return mrr, mr, hit10, hit3, hit1
 
     def get_best_threshlod(self, score, ans):
