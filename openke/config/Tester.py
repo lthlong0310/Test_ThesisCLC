@@ -88,11 +88,18 @@ class Tester(object):
         hit3 = self.lib.getTestLinkHit3(type_constrain)
         hit1 = self.lib.getTestLinkHit1(type_constrain)
 
-        print ("MR = " + mr + "\n")
-        print ("MRR = " + mrr + "\n")
-        print ("Hit@1 = " + hit1 + "\n")
-        print ("Hit@3 = " + hit3 + "\n")
-        print ("Hit@10 = " + hit10 + "\n")
+        strmrr = str(mrr)
+        strmr = str(mr)
+        strhit1 = str(hit1)
+        strhit3 = str(hit3)
+        strhit10 = str(hit10)
+
+        print("MR = " + strmr + "\n")
+        print("MRR = " + strmrr + "\n")
+        print("Hit@1 = " + strhit1 + "\n")
+        print("Hit@3 = " + strhit3 + "\n")
+        print("Hit@10 = " + strhit10 + "\n")
+
         #print (hit10)
         return mrr, mr, hit10, hit3, hit1
 
