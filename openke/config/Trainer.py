@@ -18,7 +18,7 @@ class Trainer(object):
 	def __init__(self, 
 				 model = None,
 				 data_loader = None,
-				 train_times = 1000,
+				 train_times = 10,
 				 alpha = 0.5,
 				 use_gpu = True,
 				 opt_method = "sgd",
