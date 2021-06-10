@@ -94,6 +94,8 @@ class Tester(object):
         strhit3 = str(hit3)
         strhit10 = str(hit10)
 
+        print("\n")
+        print("\n")
         print("MR = " + strmr + "\n")
         print("MRR = " + strmrr + "\n")
         print("Hit@1 = " + strhit1 + "\n")

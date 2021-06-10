@@ -13,31 +13,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/openke/config/Trainer.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="92" column="47" selection-start-line="92" selection-start-column="47" selection-end-line="92" selection-end-column="47" />
-              <folding>
-                <element signature="e#2602#2620#0" />
-                <element signature="e#2655#2761#0" />
-                <element signature="e#2798#2820#0" />
-                <element signature="e#2853#2871#0" />
-                <element signature="e#2910#2934#0" />
-                <element signature="e#2981#3013#0" />
-                <element signature="e#3056#3084#0" />
-                <element signature="e#3129#3159#0" />
-                <element signature="e#3225#3326#0" />
-                <element signature="e#3377#3413#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/openke/config/Tester.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="89" lean-forward="true" selection-start-line="89" selection-end-line="89" />
+            <state relative-caret-position="39">
+              <caret line="95" selection-start-line="95" selection-end-line="95" />
               <folding>
                 <element signature="e#15#27#0" expanded="true" />
                 <element signature="e#390#1521#0" />
@@ -54,28 +33,107 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/openke/module/model/TransE.py">
+        <entry file="file://$PROJECT_DIR$/openke/config/Trainer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="378">
+              <caret line="94" column="42" selection-start-line="94" selection-start-column="27" selection-end-line="94" selection-end-column="42" />
               <folding>
-                <element signature="e#0#12#0" expanded="true" />
-                <element signature="e#228#1282#0" />
-                <element signature="e#1320#1728#0" />
-                <element signature="e#1758#2079#0" />
-                <element signature="e#2116#2406#0" />
-                <element signature="e#2436#2594#0" />
+                <element signature="e#475#800#0" />
+                <element signature="e#837#1212#0" />
+                <element signature="e#1380#1528#0" />
+                <element signature="e#1603#1724#0" />
+                <element signature="e#1791#1908#0" />
+                <element signature="e#1920#2038#0" />
+                <element signature="e#2600#2618#0" />
+                <element signature="e#2653#2759#0" />
+                <element signature="e#2796#2818#0" />
+                <element signature="e#2851#2869#0" />
+                <element signature="e#2908#2932#0" />
+                <element signature="e#2979#3011#0" />
+                <element signature="e#3054#3082#0" />
+                <element signature="e#3127#3157#0" />
+                <element signature="e#3223#3324#0" />
+                <element signature="e#3375#3411#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/openke/data/TestDataLoader.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-324">
+              <caret column="12" selection-start-column="12" selection-end-column="12" />
+              <folding>
+                <element signature="e#140#220#0" />
+                <element signature="e#281#386#0" />
+                <element signature="e#551#1262#0" />
+                <element signature="e#1283#2779#0" />
+                <element signature="e#2807#3273#0" />
+                <element signature="e#3301#3750#0" />
+                <element signature="e#3994#4028#0" />
+                <element signature="e#4098#4291#0" />
+                <element signature="e#4134#4213#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/train_transe_FB15K237.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1026">
+              <caret line="38" column="24" lean-forward="true" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/openke/data/TrainDataLoader.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1161">
+              <caret line="88" column="49" selection-start-line="88" selection-start-column="33" selection-end-line="88" selection-end-column="49" />
+              <folding>
+                <element signature="e#15#24#0" expanded="true" />
+                <element signature="e#898#1115#0" />
+                <element signature="e#3212#3569#0" />
+                <element signature="e#3599#3994#0" />
+                <element signature="e#4024#4418#0" />
+                <element signature="e#4449#4611#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/benchmarks/FB15K237/test2id.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/benchmarks/FB15K237/train2id.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/benchmarks/FB15K237/valid2id.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/benchmarks/FB15K237/relation2id.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/openke/data/PyTorchTrainDataLoader.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1554">
-              <caret line="213" selection-start-line="213" selection-end-line="213" />
+            <state relative-caret-position="591">
+              <caret line="270" column="48" selection-start-line="270" selection-start-column="39" selection-end-line="270" selection-end-column="48" />
               <folding>
-                <element signature="e#416#961#0" />
                 <element signature="e#1126#3590#0" />
                 <element signature="e#3619#4881#0" />
                 <element signature="e#4931#5159#0" />
@@ -85,6 +143,8 @@
                 <element signature="e#6683#7019#0" />
                 <element signature="e#7067#7403#0" />
                 <element signature="e#7450#7699#0" />
+                <element signature="e#10294#10372#0" />
+                <element signature="e#10415#10497#0" />
               </folding>
             </state>
           </provider>
@@ -111,7 +171,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-10" />
     <option name="y" value="75" />
     <option name="width" value="950" />
@@ -144,6 +204,12 @@
               <item name="Test_Thesis_CLC" type="b2602c69:ProjectViewProjectNode" />
               <item name="Test_Thesis_CLC" type="462c0819:PsiDirectoryNode" />
               <item name="openke" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Test_Thesis_CLC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Test_Thesis_CLC" type="462c0819:PsiDirectoryNode" />
+              <item name="openke" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Test_Thesis_CLC" type="b2602c69:ProjectViewProjectNode" />
@@ -199,7 +265,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
@@ -225,10 +291,72 @@
     <entry file="file://$PROJECT_DIR$/openke/make.sh">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/openke/data/TestDataLoader.py">
+    <entry file="file://$PROJECT_DIR$/openke/module/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/checkpoint/transe.ckpt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openke/config/Tester.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="95" selection-start-line="95" selection-end-line="95" />
+          <folding>
+            <element signature="e#15#27#0" expanded="true" />
+            <element signature="e#390#1521#0" />
+            <element signature="e#1563#1581#0" />
+            <element signature="e#1635#1665#0" />
+            <element signature="e#1711#1811#0" />
+            <element signature="e#1855#1985#0" />
+            <element signature="e#2038#2310#0" />
+            <element signature="e#3405#4069#0" />
+            <element signature="e#4138#5393#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/benchmarks/FB15K237/n-n.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2025" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/benchmarks/FB15K237/n-n.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openke/module/BaseModule.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-379">
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openke/module/strategy/NegativeSampling.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openke/module/strategy/Strategy.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openke/module/strategy/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openke/data/TestDataLoader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-324">
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
           <folding>
             <element signature="e#140#220#0" />
             <element signature="e#281#386#0" />
@@ -243,7 +371,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/openke/module/__init__.py">
+    <entry file="file://$PROJECT_DIR$/openke/data/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <folding>
@@ -252,22 +380,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/checkpoint/transe.ckpt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/train_transe_FB15K237.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="37" column="10" lean-forward="true" selection-start-line="37" selection-start-column="10" selection-end-line="37" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/openke/module/model/TransE.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="-15">
           <folding>
             <element signature="e#0#12#0" expanded="true" />
             <element signature="e#228#1282#0" />
@@ -279,12 +394,64 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/benchmarks/FB15K237/1-1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/benchmarks/FB15K237/type_constrain.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/benchmarks/NELL-995/type_constrain.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/benchmarks/NELL-995/test2id_all.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/benchmarks/NELL-995/test2id.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/benchmarks/FB15K237/entity2id.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openke/config/Trainer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="94" column="42" selection-start-line="94" selection-start-column="27" selection-end-line="94" selection-end-column="42" />
+          <folding>
+            <element signature="e#475#800#0" />
+            <element signature="e#837#1212#0" />
+            <element signature="e#1380#1528#0" />
+            <element signature="e#1603#1724#0" />
+            <element signature="e#1791#1908#0" />
+            <element signature="e#1920#2038#0" />
+            <element signature="e#2600#2618#0" />
+            <element signature="e#2653#2759#0" />
+            <element signature="e#2796#2818#0" />
+            <element signature="e#2851#2869#0" />
+            <element signature="e#2908#2932#0" />
+            <element signature="e#2979#3011#0" />
+            <element signature="e#3054#3082#0" />
+            <element signature="e#3127#3157#0" />
+            <element signature="e#3223#3324#0" />
+            <element signature="e#3375#3411#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train_transe_FB15K237.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="38" column="24" lean-forward="true" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/openke/data/PyTorchTrainDataLoader.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1554">
-          <caret line="213" selection-start-line="213" selection-end-line="213" />
+        <state relative-caret-position="591">
+          <caret line="270" column="48" selection-start-line="270" selection-start-column="39" selection-end-line="270" selection-end-column="48" />
           <folding>
-            <element signature="e#416#961#0" />
             <element signature="e#1126#3590#0" />
             <element signature="e#3619#4881#0" />
             <element signature="e#4931#5159#0" />
@@ -294,46 +461,56 @@
             <element signature="e#6683#7019#0" />
             <element signature="e#7067#7403#0" />
             <element signature="e#7450#7699#0" />
+            <element signature="e#10294#10372#0" />
+            <element signature="e#10415#10497#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/openke/config/Trainer.py">
+    <entry file="file://$PROJECT_DIR$/openke/base/Base.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="92" column="47" selection-start-line="92" selection-start-column="47" selection-end-line="92" selection-end-column="47" />
+        <state relative-caret-position="-4987" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openke/base/Reader.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4536" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openke/base/Setting.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3515" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openke/base/Triple.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openke/data/TrainDataLoader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1161">
+          <caret line="88" column="49" selection-start-line="88" selection-start-column="33" selection-end-line="88" selection-end-column="49" />
           <folding>
-            <element signature="e#2602#2620#0" />
-            <element signature="e#2655#2761#0" />
-            <element signature="e#2798#2820#0" />
-            <element signature="e#2853#2871#0" />
-            <element signature="e#2910#2934#0" />
-            <element signature="e#2981#3013#0" />
-            <element signature="e#3056#3084#0" />
-            <element signature="e#3129#3159#0" />
-            <element signature="e#3225#3326#0" />
-            <element signature="e#3377#3413#0" />
+            <element signature="e#15#24#0" expanded="true" />
+            <element signature="e#898#1115#0" />
+            <element signature="e#3212#3569#0" />
+            <element signature="e#3599#3994#0" />
+            <element signature="e#4024#4418#0" />
+            <element signature="e#4449#4611#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/openke/config/Tester.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="89" lean-forward="true" selection-start-line="89" selection-end-line="89" />
-          <folding>
-            <element signature="e#15#27#0" expanded="true" />
-            <element signature="e#390#1521#0" />
-            <element signature="e#1563#1581#0" />
-            <element signature="e#1635#1665#0" />
-            <element signature="e#1711#1811#0" />
-            <element signature="e#1855#1985#0" />
-            <element signature="e#2038#2310#0" />
-            <element signature="e#3405#4069#0" />
-            <element signature="e#4138#5393#0" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/benchmarks/FB15K237/test2id.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/benchmarks/FB15K237/train2id.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/benchmarks/FB15K237/valid2id.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/benchmarks/FB15K237/relation2id.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
